@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Fire</title>
+    <style>
+        body {
+            background-color: white;
+            color: white; /* Changed text color to white */
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+            background-image: url('https://cdn.pixabay.com/photo/2024/04/16/21/11/ai-generated-8700789_1280.jpg'); /* Replace 'your-image-url.jpg' with the actual URL or path to your image */
+            background-repeat: repeat;
+            background-size: 50px 50px; /* Adjust the size of each image */
+        }
+    </style>
+</head>
+<body>
+    <h1>เข้าไปดูในเกม Free Fire</h1>
+    <div class="video-container">
+        <video width="320" height="240" controls>
+            <source src="your-video-url.mp4" type="video/mp4"> <!-- Replace 'your-video-url.mp4' with the actual URL or path to your video -->
+            <p>เบราว์เซอร์ของคุณไม่รองรับการเล่นวิดีโอ</p>
+        </video>
+    </div>
+</body>
+</html>
